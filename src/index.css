@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.container{
+  width: calc(100%);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+main{
+  width: 50%;
+  display: inline-block;
+  float: left;
+}
+
+.asideRight{
+  display: inline-block;
+  float: right;
+}
+
+body{
+  background-color: #efefef;
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+h2{
+  font-weight: 400;
+  font-size: 22px;
+}
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.light {
+  background-color: #fff;
+  color: #333;
+}

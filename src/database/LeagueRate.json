@@ -1,0 +1,52 @@
+[
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/ENG.png",
+        "team_name": "England",
+        "team_score": "103.855"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/ESP.png",
+        "team_name": "Spain",
+        "team_score": "89.712"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/GER.png",
+        "team_name": "Germany",
+        "team_score": "80.606"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/ITA.png",
+        "team_name": "Italy",
+        "team_score": "74.354"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/FRA.png",
+        "team_name": "France",
+        "team_score": "60.331"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/NED.png",
+        "team_name": "Netherlands",
+        "team_score": "57.300"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/POR.png",
+        "team_name": "Portugal",
+        "team_score": "54.716"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/BEL.png",
+        "team_name": "Belgium",
+        "team_score": "39.400"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/SCO.png",
+        "team_name": "Scotland",
+        "team_score": "36.400"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/AUT.png",
+        "team_name": "Austria",
+        "team_score": "34.000"
+    }
+]

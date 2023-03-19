@@ -1,0 +1,145 @@
+.aside {
+    width: 25%;
+    float: left;
+    height: 2000px;
+    
+    
+    
+    .asideSticky{
+
+
+    .asideheading {
+        font-family: sans-serif;
+        margin-bottom: 30px;
+    }
+
+    .AllMatches {
+        .matchesContainer {
+            .MatchUCLWomenCard {
+                background-image: url("https://img.uefa.com/imgml/uefacom/wucl/light_bg.svg");
+            }
+
+            .UlmenCard {
+                background-image: url("https://img.uefa.com/imgml/uefacom/uel/light_bg.svg");
+            }
+
+            .TeenegersChempCard {
+                background-image: url("https://img.uefa.com/imgml/uefacom/under17/light_bg.svg");
+            }
+
+            .ConferenceLeague {
+                background-image: url("https://img.uefa.com/imgml/uefacom/uefaeuropaconferenceleague/light_bg.svg");
+            }
+
+            .MatchUclMenCard {
+                background-image: url("https://img.uefa.com/imgml/uefacom/ucl/light_bg.svg");
+            }
+
+            .MatchFutsalCard {
+                background-image: url("https://img.uefa.com/imgml/uefacom/undefined/light_bg.svg");
+            }
+
+            .MatchWomeUCLCard {
+                background-image: url("https://img.uefa.com/imgml/uefacom/womensunder17/light_bg.svg");
+            }
+
+            .MatchCard {
+                padding: 20px 0;
+
+                background-color: #fff;
+                background-repeat: no-repeat;
+                background-position-x: left;
+                border-radius: 3px;
+                margin-bottom: 30px;
+
+
+
+                .cardTop {
+                    width: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    margin-bottom: 30px;
+
+                    .matchDate {
+                        margin-top: 20px;
+                    }
+                }
+
+                .cardMid {
+                    width: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    margin-bottom: 20px;
+
+                    .Match {
+                        width: 100%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        flex-direction: column;
+                        margin-bottom: 10px;
+                        padding-bottom: 20px;
+                        border-bottom: 1px solid #a9a9a98d;
+
+                        .see-more {
+                            text-decoration: none;
+                            font-family: sans-serif;
+                        }
+
+                        .group {
+                            margin-bottom: 10px;
+                        }
+
+                        .MatchMain {
+                            width: 100%;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            margin-bottom: 10px;
+
+
+                            .Nation {
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+
+                                img {
+                                    margin-left: 5px;
+                                    margin-right: 5px;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .cardBottom {
+                    .All_Matchesbtn {
+                        width: 90%;
+                        display: block;
+                        border: none;
+                        margin: auto;
+                        padding: 13px 14px;
+                        border-radius: 3px;
+                        background-color: #fff;
+                        border: 1px solid #1a56c4;
+                        font-weight: 700;
+                        color: #1a56c4;
+                        cursor: pointer;
+                        transition: all 0.5s ease-out;
+
+                        &:hover {
+                            background-color: #1a56c4;
+                            color: #fff;
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+}
+}

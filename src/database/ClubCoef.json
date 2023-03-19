@@ -1,0 +1,62 @@
+[
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/50037.png",
+        "team_name": "Bayern",
+        "team_nation": "(GER)",
+        "team_score": "132.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/52919.png",
+        "team_name": "Man City",
+        "team_nation": "(ENG)",
+        "team_score": "132.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/7889.png",
+        "team_name": "Liverpool",
+        "team_nation": "(ENG)",
+        "team_score": "123.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/52914.png",
+        "team_name": "Chelsea",
+        "team_nation": "(ENG)",
+        "team_score": "123.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/50051.png",
+        "team_name": "Real Madrid",
+        "team_nation": "(ESP)",
+        "team_score": "112.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/52747.png",
+        "team_name": "Paris",
+        "team_nation": "(FRA)",
+        "team_score": "112.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/52682.png",
+        "team_name": "Man United",
+        "team_nation": "(ENG)",
+        "team_score": "98.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/50080.png",
+        "team_name": "Barcelona",
+        "team_nation": "(ESP)",
+        "team_score": "98.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/50139.png",
+        "team_name": "Juventus",
+        "team_nation": "(ITA)",
+        "team_score": "91.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/TP/teams/logos/32x32/50143.png",
+        "team_name": "Ajax",
+        "team_nation": "(NED)",
+        "team_score": "89.000"
+    }
+]

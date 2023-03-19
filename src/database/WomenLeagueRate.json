@@ -1,0 +1,54 @@
+[
+       {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/FRA.png",
+        "team_name": "France",
+        "team_score": "79.833"
+    },
+      {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/GER.png",
+        "team_name": "Germany",
+        "team_score": "73.332"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/ESP.png",
+        "team_name": "Spain",
+        "team_score": "67.499"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/ENG.png",
+        "team_name": "England",
+        "team_score": "59.166"
+    },
+    
+  
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/ITA.png",
+        "team_name": "Italy",
+        "team_score": "35.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/SWE.png",
+        "team_name": "Sweden",
+        "team_score": "26.999"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/CZE.png",
+        "team_name": "Czechia",
+        "team_score": "26.166"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/DEN.png",
+        "team_name": "Denmark",
+        "team_score": "25.750"
+    },
+       {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/POR.png",
+        "team_name": "Portugal",
+        "team_score": "24.000"
+    },
+    {
+        "club_img": "https://img.uefa.com/imgml/flags/32x32/NED.png",
+        "team_name": "Netherlands",
+        "team_score": "22.000"
+    }
+]

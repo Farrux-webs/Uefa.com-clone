@@ -1,0 +1,60 @@
+.asideRight{
+    width: 24.7%;
+
+    .PartHeading{
+        margin-bottom: 30px;
+        font-weight: 500;
+    }
+
+    .asideMain{
+        background-color: #fff;
+        padding: 30px 25px;
+
+        .TeamList{
+            list-style-type: none;
+
+            .Team{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding: 15px 10px;
+                border-top: 1px solid #bdbdbd;
+
+                .TeamMain{
+                    display: flex;
+                    align-items: center;
+                    p{
+                        span{
+                            color: #838383;
+                        }
+                    }
+
+                    img{
+                        margin-right: 8px;
+                    }
+                }
+            }
+        }
+
+        .StandingsBtn{
+                    width: 100%;
+                        display: block;
+                        border: none;
+                        margin: auto;
+                        padding: 13px 14px;
+                        border-radius: 3px;
+                        background-color: #fff;
+                        border: 1px solid #1a56c4;
+                        font-weight: 700;
+                        color: #1a56c4;
+                        cursor: pointer;
+                        transition: all 0.5s ease-out;
+                        margin-top: 20px;
+                        margin-bottom: 50px;
+                        &:hover {
+                            background-color: #1a56c4;
+                            color: #fff;
+                        }
+        }
+    }
+}
